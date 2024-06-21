@@ -11,6 +11,4 @@ QR-коды (где QR значит - Quick Response, что означает «
 ## Используемые ресурсы:
 Движок: Unity
 Язык программирования: C#
-```
-[Текст описания](https://sun9-14.userapi.com/impg/iX-KaEAJ0IrIoP_QU0K5i8c-NQCN18ECFtEFtg/m5hhlR-DGKI.jpg?size=709x1080&quality=96&sign=6fa69632399c71acd5e20e203581d990&type=album)
-```
+
