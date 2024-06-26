@@ -22,7 +22,7 @@ QR-коды (где QR значит - Quick Response, что означает «
 ## Стек технологий:
 ***Движок:*** Unity
 ***Язык программирования:*** C#
-***Библиотека***
+***Библиотека:*** ZXing
 
 
 ### [knappIch (github.com)](https://github.com/knappIch)
